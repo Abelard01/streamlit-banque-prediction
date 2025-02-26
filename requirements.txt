@@ -1,1 +1,6 @@
-streamlit\nnumpy\njoblib\nscikit-learn
+streamlit
+numpy
+joblib
+scikit-learn
+pandas 
+matplotlib
